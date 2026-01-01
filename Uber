@@ -1,0 +1,19 @@
+Excited to share my latest Uber Trip Analysis Dashboard, where I analyzed ride data to uncover booking trends, revenue drivers, and customer behavior insights.
+* Key Insights:
+* 103.7K total trips generating $2M+ in booking value
+* 349K miles traveled with an average trip distance of ~3 miles
+* Peak booking value occurs during midday and evening hours
+* Uber Pay dominates transactions (~70%), followed by cash payments
+* Day trips contribute ~78% of total booking value
+* UberX leads in total bookings and revenue among all vehicle types
+* Most frequent pickup: Penn Station / Madison Sq West
+* Longest trip recorded: 144.1 miles
+
+* Dashboard Features:
+Time-based analysis (hourly, daily, weekday patterns)
+Vehicle-wise performance comparison
+Payment method and day/night trip breakdown
+Interactive filters for date range and city
+Location-based demand insights
+
+*Tools Used: Power BI | Data Modeling | DAX | Data Visualization
